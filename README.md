@@ -1,5 +1,6 @@
 # Monke Mod Manager
-![Preview](https://i.imgur.com/6mEIBxm.png)
+![Preview]j
+(https://i.imgur.com/6mEIBxm.png)
 
 This program will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods
 
